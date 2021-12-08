@@ -1,0 +1,9 @@
+Structure bag reports:
+Summary 
+Build
+Environment
+Severity 
+Priority
+Steps to reproduce  
+Actual Result  
+Expected Result
